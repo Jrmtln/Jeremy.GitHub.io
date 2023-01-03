@@ -1,4 +1,4 @@
-# Portfolio de Jeremy
+# Portfolio de Jérémy
 
 ### Objectifs : 
 ##### 1. Mettre en oeuvre les technologies web pour créer et héberger mon portfolio
