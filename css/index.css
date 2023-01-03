@@ -1,0 +1,15 @@
+/* 
+    Author     : Jérémy LE FLOCH
+    Email      : 
+*/
+
+#profil {
+    margin-right: 10px;
+    float:left;
+    width: 140px;
+    height: 135px;
+}
+
+.jumbotron {
+    padding-bottom: 32px;
+}
